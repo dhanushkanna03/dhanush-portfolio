@@ -1,9 +1,9 @@
-# Dhanush Kanna M – Front-End Developer Portfolio
+# Dhanush Kanna M – Java Full Stack Developer Portfolio
 
 A modern, responsive portfolio showcasing my skills, projects, education, and professional journey as an aspiring Java Full Stack Developer.
 
 ## Live Demo
-🔗 https://dhanush03-new.vercel.app
+🔗 https://dhanushkanna.vercel.app
 
 ## Tech Stack
 - HTML5
